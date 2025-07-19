@@ -5,6 +5,8 @@ public class diff{
 
         int diff = a - b;
 
+        ind n = 0;
         System.out.println(diff);
+
     }
 }
