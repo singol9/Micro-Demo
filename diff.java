@@ -6,7 +6,9 @@ public class diff{
         int diff = a - b;
 
         ind n = 0;
-        System.out.println(diff);
+        int sum = a + b;
 
+        System.out.println(diff);
+        System.out.println(sum);
     }
 }
